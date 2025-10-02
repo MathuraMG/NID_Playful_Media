@@ -26,7 +26,7 @@
 * Canvas, coordinates, setup and draw
    * In p5, the origin of the canvas is in the top left. the "x" value increases from left to right, and the "y" value increases top to down.
    * the code inside the `setup` function runs ONCE in the beginning, and the code inside the `draw` function runs forever until the sketch stops or we explicity make it stop 
-   * All the code inside `setup` and `draw` shoudl be present inside the `{` and `}`
+   * All the code inside `setup` and `draw` should be present inside the `{` and `}`
    * Remember, the code inside the funcitons run one after the other, meaning if you were to call the `background` function in the end of draw, you would not see ny of the other shapes you have as the background would cover them all
 
 * Simple shapes in p5 - shapes we covered in class :
@@ -79,3 +79,4 @@ Create a self portrait using these shapes. Remember, a self portrait is an expre
 * Check the link on github and **email me your repo link at mathura@papercranelab.com. Subject- NID Repo Link**
 
 # Assignment
+* Make a composition using one single shape to convey an emotion
