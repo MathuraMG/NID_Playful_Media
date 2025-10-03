@@ -3,8 +3,6 @@ marp: true
 ---
 
 
---------
-
 What is a computer?
 
 ---------
@@ -36,11 +34,27 @@ How we act together - Lauren McCarthy
 
 ---------
 
+![gen art](https://openprocessing.org/sketch/2219276)
+
+--------
+
+![particle love](https://particle-love.com/)
+
+---------
+
+![gather town](https://framerusercontent.com/images/BiVf6h3RDmS1FW7hXlz7bkA7P8.png?width=2190&height=1873)
+
+---------
+
 And of course - we will be looking at games itself
 
 --------
 
-![Sts](https://cdn.mos.cms.futurecdn.net/v2/t:0,l:0,cw:2560,ch:1440,q:80,w:2560/TDMa8x6pA9xmbL6dVDWtbF.jpg)
+![wordle]()
+
+<!-- ---------
+
+![Sts](https://cdn.mos.cms.futurecdn.net/v2/t:0,l:0,cw:2560,ch:1440,q:80,w:2560/TDMa8x6pA9xmbL6dVDWtbF.jpg) -->
 
 ---------
 
@@ -48,7 +62,7 @@ And of course - we will be looking at games itself
 
 --------
 
-![Soiritfarer](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/972660/ss_6ae155cb7c5f65f46a8f0dc43ba57aff8f57616c.1920x1080.jpg?t=1752503178)
+![Spiritfarer](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/972660/ss_6ae155cb7c5f65f46a8f0dc43ba57aff8f57616c.1920x1080.jpg?t=1752503178)
 
 --------
 
@@ -94,6 +108,8 @@ Next 2 weeks
 To start working with a medium, we need to first understand the medium - its characteristics, strenghts, weaknesses
 
 ----------
+
+
 
 
 
