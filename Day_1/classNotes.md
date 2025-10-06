@@ -1,9 +1,10 @@
 # Day 1 - 6th Oct 2025
+
 ## Class Plan
 - Class introduction
   - Class schedule and syllabus
   - Discussions and assignments expectations
-  - Final Project
+  - Final Project - create a game! We'll talk more about this on Friday!
 - Computational Media
   - Computation as a design material
   - How have computers changed the creation of art
@@ -81,3 +82,4 @@ Create a self portrait using these shapes. Remember, a self portrait is an expre
 # Assignment
 * Read [https://intro.nyuadim.com/wp-content/uploads/2020/08/theArtOfInteractiveDesign.pdf]
 * Make a composition using one single shape to convey an emotion
+* Love, Joy, Sadness/Compassion, Anger, Courage, Fear, Disgust, Wonder, and Peace
