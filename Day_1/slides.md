@@ -87,6 +87,12 @@ Without the active participation of players and machines, video games exist only
 
 ---------
 
+We shape our tools, and thereafter our tools shape us
+
+-- John M. Culkin
+
+---
+
 Find a project you like!
 https://experiments.withgoogle.com/
 
@@ -108,6 +114,24 @@ Next 2 weeks
 To start working with a medium, we need to first understand the medium - its characteristics, strenghts, weaknesses
 
 ----------
+
+[Gradient maker](https://yk1932.github.io/gradientMaker/)
+
+---
+
+[Names around the world](https://soojin-lee0819.github.io/connectionsLab/Project1/)
+
+---
+
+[Luck Game documentation v1](https://github.com/yk1932/FinalLuckGame?tab=readme-ov-file)
+[Luck Game documentation v2](https://github.com/yk1932/LuckGame)
+
+---
+
+[Story telling](https://editor.p5js.org/rockyzhuocheng/full/wKycl9Y76)
+
+---
+
 
 
 

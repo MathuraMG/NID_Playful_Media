@@ -28,8 +28,10 @@ No programming experience required to attend this course.
 * Ability to create visual animations and interactive media through code.
 
 # Creative process
-* Develop and apply design sensibilities in creating computational media forms (
+* Develop and apply design sensibilities in creating computational media forms 
 * Appreciate and understand code as a material
+
+🎉 **Special Mention** 🎉- We will be discussing AI! As a tool, as a material, as an actor, and as an ethical dilemma! Given the present scenario of tech - this thread of discussion will run through the course.
 
 
 # Assignments:
