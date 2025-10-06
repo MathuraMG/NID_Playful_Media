@@ -80,6 +80,8 @@ Create a self portrait using these shapes. Remember, a self portrait is an expre
 * Check the link on github and **email me your repo link at mathura@papercranelab.com. Subject- NID Repo Link**
 
 # Assignment
-* Read [https://intro.nyuadim.com/wp-content/uploads/2020/08/theArtOfInteractiveDesign.pdf]
+* Test out arcs
+<!-- * Read [https://intro.nyuadim.com/wp-content/uploads/2020/08/theArtOfInteractiveDesign.pdf] -->
+* Read the older 2 readings
 * Make a composition using one single shape to convey an emotion
 * Love, Joy, Sadness/Compassion, Anger, Courage, Fear, Disgust, Wonder, and Peace
