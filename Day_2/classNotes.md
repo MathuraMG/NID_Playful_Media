@@ -73,7 +73,3 @@
 
 # ASSIGNMENT
 Add interaction to your work from yesterday. Your animation should indicate a shift from one emotion to another
-OR
-Create an interactive portrait of yourself
-OR
-Recreate MS Paint - how would you do it differently, and why?
