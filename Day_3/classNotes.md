@@ -85,3 +85,12 @@
 
 **Examples for Class 2**
 * You can find the all examples under ["Week_2" in the p5 editor collection](https://editor.p5js.org/itp42/collections/7rk8Q1jPf)
+
+
+# Assignment
+* Create a generative pattern in p5.js
+* Create 4 images (50px x 50px) that can be used in the gen patterns
+* Look through these old computer magazines
+* [COMPUTER_GRAPHICS_AND_ART_Aug1977](http://dada.compart-bremen.de/docUploads/COMPUTER_GRAPHICS_AND_ART_Aug1977.pdf)
+* [ProgrammInformation21_PI21](http://dada.compart-bremen.de/docUploads/ProgrammInformation21_PI21.pdf)
+ * [COMPUTER_GRAPHICS_AND_ART_May1976](http://dada.compart-bremen.de/docUploads/COMPUTER_GRAPHICS_AND_ART_May1976.pdf)
