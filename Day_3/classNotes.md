@@ -1,7 +1,7 @@
 **Recap**
 * functions - let's make a simple one that draws flowers
 * functions - mousePressed, mouseDragged, keyPressed
-* angleMode
+* angleMode (later)
 
 **Topics covered in class**
 

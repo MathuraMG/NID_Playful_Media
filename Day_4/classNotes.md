@@ -9,3 +9,5 @@
   
 # Images
 * How do we add images
+* Using sprites!!
+* 
