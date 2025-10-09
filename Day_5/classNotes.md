@@ -1,22 +1,6 @@
 # Topics covered in class
 * Classes and Objects
 
-## Arrays
-  * Why do we use arrays?
-    * To deal with a collection of values in code
-  * Array syntax
-    * let a = [];
-    * As always, make sure to give understandable variable names. For arrays, its helpful to name the variable in plural    
-    * In most languages, the array has to have a collection of similar items (all numbers, strings etc.) - not in Javascript. BUT, a best practice is to always have similar items.
-    * Array indexing starts at 0. Meaning the first element in an array is considered to be in the 0th position. the 2nd is 1st position. This "position" is also known as "index"
-    * Given an array `a`, you can access the first element in the array by saying `a[0]`, the next one as `a[1]` and so on
-    * An arrays lenght -> the number of items/ elements it has can be found with `a.length`
-    * Given that the index of an array goes from 0 to `a.length-1`
-  * **PRACTICE**  : Let's make an array containing 5 numbers in setup, and print all the numbers inside it. Can you do it with a for loop?
-  * **TODO** : Let's go back to the car code, and add more cars with more positions
-
-**🔹💻[In Class Code](https://editor.p5js.org/itp42/sketches/w2tv9CZIB)**
-
 ## Objects
   * What is an object?
     * It is an entity, with properties (attributes or functions)
