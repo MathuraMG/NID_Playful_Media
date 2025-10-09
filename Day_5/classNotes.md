@@ -1,34 +1,23 @@
-# Topics covered in class
-* Classes and Objects
+# Recap
+* github pages
+* Arrays
+  
+# Images - Part 2
+* Using sprites!!
+  
+## Get function in image
+* You can use the get function in 2 ways. If you give it ONLY x and y values, it gives you the rgb value for that single pixel.
+* If you give it 4 values - x, y, width, height - it will give you the pixel values of that part of the image. Meaning, you can display it as an image!
+* Note: You can display a part of the image using the (image)[https://p5js.org/reference/p5/image/] function, but an easier way to do it would be using the (image.get)[https://p5js.org/reference/p5.Image/get/] function
 
-## Objects
-  * What is an object?
-    * It is an entity, with properties (attributes or functions)
-    * Eg - let's take the car - it has a startingX, startingY, a colour, a size etc.
-    * **DEMO** Make a car object
-    * Now you could even define how this object is drawn as well
-    * But we still have the issue that if we need to make multiple car objects, we have to do this each time!
-    * So we will çreate a class <- a blueprint of how to make a car!
+## Sprites
+* A spritesheet has various parts of a charecter animation linearly layed out.
+* We can use img.get to break them up into smaller images and the store them in an array
+* We can then loop through the array and display the images sequentially to create the illusion of movement
+* PS - This is going to be very helpful when you are working with games.
+  
+🔴💻[Example - working with a spritesheet which has one animation](https://editor.p5js.org/itp42/sketches/jrDRcf2XN)
 
-## Classes and Objects
-  * **TODO** Let's create a car class!
-  * Create a new object using the car class
-  * Make an array of cars!
+🔴💻[Example - working with a spritesheet which has multiple animations](https://editor.p5js.org/itp42/sketches/oO0Rt5_cJ)
 
-**🔹💻[In Class Code - 1 - Objects](https://editor.p5js.org/itp42/sketches/BHx99EDVz)**
 
-**🔹💻[In Class Code - 1 - Objects | Arrays](https://editor.p5js.org/itp42/sketches/aDRvuABPM)**
-
-**🔹💻[In Class Code - 1 - Objects | Arrays | MousePressed](https://editor.p5js.org/itp42/sketches/1FD-dKWxg)**
-
-## TRY THIS
-* Create a class "Flower"
-* Flower should have the following functions
-  * draw
-  * sway
-  * grow (BONUS)
-* Your sketch should be able to do the following
-  * Create a flower at mouseX and mouseY when you click the mouse on the canvas
-  * If user drags the mouse across the canvas, all the flowers should sway ( you can implement the sway functionality either using random or noise
-  * BONUS : Only the flowers close to the mouse sway when you drag the mouse
-  * BONUS : The flower grows over time
