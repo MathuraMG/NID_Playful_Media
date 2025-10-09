@@ -59,3 +59,8 @@ Currently when we work on p5 canvas, the assumption is that the origin is on the
 🔴💻[Example - working with a spritesheet which has one animation](https://editor.p5js.org/itp42/sketches/jrDRcf2XN)
 
 🔴💻[Example - working with a spritesheet which has multiple animations](https://editor.p5js.org/itp42/sketches/oO0Rt5_cJ)
+
+# Assgns
+* finish day 1, 2, 3
+* Create a gen pattern with images and ARRAYS!!!
+* Practice arrays -create a gen pattern with rectangles. Create an array of colors (using hex values). Each rectangle will use a colour from that array via a random choice.
