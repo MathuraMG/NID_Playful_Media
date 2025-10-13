@@ -8,7 +8,8 @@ class Car {
     this.speed = speed;
   }
 
-  show() {
+  show(redColour) {
+    fill(redColour,0,0);
     rect(this.x, this.y, this.size, 20);
     ellipse(this.x+10,this.y+20,10);
     ellipse(this.x+this.size-10,this.y+20,10);
@@ -18,6 +19,12 @@ class Car {
     this.x = this.x+this.speed;
     if(this.x>width) {
       this.x = 0;
+    }
+  }
+
+  grow() {
+    if(this.size<200) {
+      this.size = this.size+.5;
     }
   }
 }
