@@ -32,8 +32,11 @@
 * Your sketch should be able to do the following
   * Create a flower at mouseX and mouseY when you click the mouse on the canvas
   * If user drags the mouse across the canvas, all the flowers should sway ( you can implement the sway functionality either using random or noise
+  * The flower grows over time
   * BONUS : Only the flowers close to the mouse sway when you drag the mouse
-  * BONUS : The flower grows over time
+  
+
+
 Class notes
 * https://editor.p5js.org/mathura-complex/sketches/fPBE7wNGr
 * https://editor.p5js.org/mathura-complex/sketches/Nhk7AO8f5

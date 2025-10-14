@@ -21,5 +21,17 @@ We will look at the below functionalities with objects
 * Points in games
 * Removing objects from the array
 
-# Working with html
+## TRY THIS
+* Create a class "Flower"
+* Flower should have the following functions
+  * draw
+  * sway
+  * grow (BONUS)
+* Your sketch should be able to do the following
+  * Create a flower at mouseX and mouseY when you click the mouse on the canvas
+  * If user drags the mouse across the canvas, all the flowers should sway ( you can implement the sway functionality either using random or noise
+  * The flower grows over time
+  * BONUS : Only the flowers close to the mouse sway when you drag the mouse
+## READ THE COLLISION CODE!!
+  
 
